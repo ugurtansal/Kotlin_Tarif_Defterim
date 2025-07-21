@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Tarif_Defteri" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:textColor">@color/textColor</item>
+        <item name="tvBackgroundColor">@color/tvBackground</item>
+        <item name="textColorInput">@color/textColorInput</item>
+    </style>
+
+    <style name="Theme.Tarif_Defteri" parent="Base.Theme.Tarif_Defteri" />
+</resources>
